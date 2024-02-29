@@ -1,0 +1,7 @@
+{
+    "myCpcConfig.interpreterPath": "./CAIE_Code/bincpc",
+    "files.exclude": {
+        ".vscode": true,
+        "CAIE_Code": true
+    }
+}
