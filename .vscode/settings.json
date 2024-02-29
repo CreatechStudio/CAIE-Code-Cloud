@@ -1,5 +1,8 @@
 {
     "myCpcConfig.interpreterPath": "./CAIE_Code/bincpc",
+    "myCpcConfig.updateBranch": "stable",
+    "myCpcConfig.devMode": false,
+    "myCpcConfig.devMode": "stable",
     "files.exclude": {
         ".vscode": true,
         "CAIE_Code": true
