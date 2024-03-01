@@ -1,5 +1,4 @@
 {
-    "myCpcConfig.interpreterPath": "./CAIE_Code/bincpc",
     "myCpcConfig.updateBranch": "stable",
     "myCpcConfig.devMode": false,
     "myCpcConfig.updateRemote": "github",
