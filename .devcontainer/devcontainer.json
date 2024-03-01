@@ -1,5 +1,3 @@
 {
-    "remoteEnv": {
-      "CPC_HOME": "/workspaces/${GITHUB_REPOSITORY#*/}/CAIE_Code/bin"
-   }
+   "postCreateCommand": "echo export CPC_HOME=\\\"/workspaces/$(basename $GITHUB_REPOSITORY)/CAIE_Code/bin\\\" > $HOME/.codespace-env && echo 'source $HOME/.codespace-env' >> $HOME/.bashrc"
 }
