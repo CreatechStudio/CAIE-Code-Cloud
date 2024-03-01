@@ -1,3 +1,3 @@
 {
-   "postCreateCommand": "echo 'export PATH=\\\"/workspaces/$(basename $GITHUB_REPOSITORY)/CAIE_Code/bin:\\$PATH\\\"' >> $HOME/.bashrc"
+   "postCreateCommand": "echo 'export PATH=\\\"/workspaces/$(basename $GITHUB_REPOSITORY)/CAIE_Code/bin:$PATH\\\"' >> $HOME/.bashrc"
 }
