@@ -5,6 +5,7 @@
     "myCpcConfig.updateRemote": "github",
     "files.exclude": {
         ".vscode": true,
-        "CAIE_Code": true
+        "CAIE_Code": true,
+	".devcontainer": true
     }
 }

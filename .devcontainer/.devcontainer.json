@@ -1,0 +1,5 @@
+{
+    "remoteEnv": {
+      "CPC_HOME": "/workspaces/${GITHUB_REPOSITORY#*/}/CAIE_Code/bin"
+   }
+}
