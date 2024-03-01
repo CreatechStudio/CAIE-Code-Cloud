@@ -6,7 +6,8 @@
     "files.exclude": {
         ".vscode": true,
         "CAIE_Code": true,
-	".devcontainer": true
+	    ".devcontainer": true,
+        ".gitmodules": true
     },
     "terminal.integrated.sendKeybindingsToShell": true
 }
