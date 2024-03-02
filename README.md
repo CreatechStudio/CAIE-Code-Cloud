@@ -5,14 +5,14 @@
 <h3 align="center">CAIE Code Online Environment</h3>
 </p>
 <p align="center">
-<a href="./README_cn.md">中文</a> | <a href="./README.md">English</a>
+<a href="./README_zh.md">中文</a> | <a href="./README.md">English</a>
 </p>
 
 > You must have a well internet connection to GitHub before using this Environment.
 
 ## What is CPCOE
 
-This is an online envrionment for **tempoary** use of [CAIE_Code](https://github.com/iewnfod/CAIE_Code) based on [GitHub Codespaces](https://docs.github.com/en/codespaces/overview).
+This is an online environment for **temporary** use of [CAIE_Code](https://github.com/iewnfod/CAIE_Code) based on [GitHub Codespace](https://docs.github.com/en/codespaces/overview).
 
 ### Advantages
 
@@ -37,7 +37,7 @@ This is an online envrionment for **tempoary** use of [CAIE_Code](https://github
 If you want to save your file permanently in GitHub. You may follow this instruction.
 
 1. Click the `Use this Template`.
-2. Select `Create a New Repository`
+2. Select `Create a New Repository`.
 3. Select your own repository name and visibility.
    > It is recommended that to set your new repository as private. Unless you are very confident with your code. 😁
 4. Click `Code` in your own repository.
