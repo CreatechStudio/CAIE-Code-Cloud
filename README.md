@@ -12,7 +12,7 @@
 
 ## What is CPCOE
 
-This is an online environment for **temporary** use of [CAIE_Code](https://github.com/iewnfod/CAIE_Code) based on [GitHub Codespace](https://docs.github.com/en/codespaces/overview).
+This is an online environment for **temporary** use of [CAIE_Code](https://github.com/iewnfod/CAIE_Code) based on [GitHub Codespaces](https://docs.github.com/en/codespaces/overview).
 
 ### Advantages
 

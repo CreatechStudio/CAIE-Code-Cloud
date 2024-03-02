@@ -8,16 +8,16 @@
 <a href="./README_zh.md">中文</a> | <a href="./README.md">English</a>
 </p>
 
-> 在使用此环境前，为获得最好的体验，请保证你与 Github 的连接是良好的。
+> 在使用此环境前，为获得最好的体验，请保证你与 Github 的网络连接畅通。
 
 ## CPCOE 是什么
 这是一个在线的 [CAIE_Code](https://github.com/iewnfod/CAIE_Code) 的**临时**开发环境，基于 [Github 代码空间](https://docs.github.com/zh/codespaces/overview)。
 
 ### 我们的优势
 * 在 5 秒内快速创建一个新的环境
-* 无语手动处理 `cpc` 环境
+* 无需手动处理 `cpc` 环境
 * 高性能
-* 低存储消耗
+* 低本地存储消耗
 
 ## 快速开始
 1. 点击右上角的 `Use this Template`。
@@ -44,7 +44,7 @@
 	> 不知道如何提交？请查看这份[使用说明](https://code.visualstudio.com/docs/sourcecontrol/overview)。
 
 ## 闲置与删除
-Github 用于自动关闭以及删除策略。
+Github 具有其默认的自动关闭以及删除策略。
 默认状态下，你的代码空间会在闲置超过 30 分钟后自动关闭，并在 30 天后自动删除。
 你可以通过以下链接了解如何修改这些设置：
 * [设置 GitHub 代码空间超时期限](https://docs.github.com/zh/codespaces/setting-your-user-preferences/setting-your-timeout-period-for-github-codespaces)
