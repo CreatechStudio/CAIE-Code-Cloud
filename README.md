@@ -2,7 +2,7 @@
 <a href="https://github.com/createchstudio/caie-code-cloud/">
 <img src="https://raw.githubusercontent.com/iewnfod/CAIE_Code/stable/assets/cpc-cloud.svg" width="100" height="100" alt="logo">
 </a>
-<h3 align="center">CAIE Code Online Cloud</h3>
+<h3 align="center">CAIE Code Cloud</h3>
 </p>
 <p align="center">
 <a href="./README_zh.md">中文</a> | <a href="./README.md">English</a>
