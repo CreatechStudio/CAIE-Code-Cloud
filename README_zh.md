@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://github.com/createchstudio/caie-code-environment/">
-<img src="https://raw.githubusercontent.com/iewnfod/CAIE_Code/stable/assets/cpc.svg" width="100" height="100" alt="logo">
+<img src="https://raw.githubusercontent.com/iewnfod/CAIE_Code/stable/assets/cpc-cloud.svg" width="100" height="100" alt="logo">
 </a>
 <h3 align="center">CAIE Code 在线环境</h3>
 </p>
