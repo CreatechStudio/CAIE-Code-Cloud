@@ -10,7 +10,7 @@
 
 > 在使用此环境前，为获得最好的体验，请保证你与 Github 的网络连接畅通。
 
-## CPCOE 是什么
+## CAIE Code Cloud 是什么
 这是一个在线的 [CAIE_Code](https://github.com/iewnfod/CAIE_Code) 的**临时**开发环境，基于 [Github 代码空间](https://docs.github.com/zh/codespaces/overview)。
 
 ### 我们的优势

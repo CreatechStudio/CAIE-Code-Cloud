@@ -10,7 +10,7 @@
 
 > You must have a well internet connection to GitHub before using this Environment.
 
-## What is CPCOE
+## What is CAIE Code Cloud
 
 This is an cloud environment for **temporary** use of [CAIE_Code](https://github.com/iewnfod/CAIE_Code) based on [GitHub Codespaces](https://docs.github.com/en/codespaces/overview).
 
