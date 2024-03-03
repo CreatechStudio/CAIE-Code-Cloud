@@ -1,8 +1,8 @@
 <p align="center">
-<a href="https://github.com/createchstudio/caie-code-environment/">
-<img src="https://raw.githubusercontent.com/iewnfod/CAIE_Code/stable/assets/cpc.svg" width="100" height="100" alt="logo">
+<a href="https://github.com/createchstudio/caie-code-cloud/">
+<img src="https://raw.githubusercontent.com/iewnfod/CAIE_Code/stable/assets/cpc-cloud.svg" width="100" height="100" alt="logo">
 </a>
-<h3 align="center">CAIE Code Online Environment</h3>
+<h3 align="center">CAIE Code Online Cloud</h3>
 </p>
 <p align="center">
 <a href="./README_zh.md">中文</a> | <a href="./README.md">English</a>
@@ -12,7 +12,7 @@
 
 ## What is CPCOE
 
-This is an online environment for **temporary** use of [CAIE_Code](https://github.com/iewnfod/CAIE_Code) based on [GitHub Codespaces](https://docs.github.com/en/codespaces/overview).
+This is an cloud environment for **temporary** use of [CAIE_Code](https://github.com/iewnfod/CAIE_Code) based on [GitHub Codespaces](https://docs.github.com/en/codespaces/overview).
 
 ### Advantages
 
