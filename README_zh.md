@@ -39,7 +39,7 @@
 5. 在下拉菜单中选择 `Codespace`。
 6. 点击 `Create codespace on main`。
 	> 注意，此按钮下有一小段文字，说明了谁会承担这个代码空间的费用。[查看具体价格](https://docs.github.com/zh/get-started/learning-about-github/githubs-plans)
-7. 根据快速开始中的 `第三步` 开始创作吧！
+7. 根据[快速开始](https://github.com/CreatechStudio/CAIE-Code-Cloud/blob/main/README_zh.md#%E5%BF%AB%E9%80%9F%E5%BC%80%E5%A7%8B)中的 `第三步` 开始创作吧！
 8. 提交你的代码到你的仓库。
 	> 不知道如何提交？请查看这份[使用说明](https://code.visualstudio.com/docs/sourcecontrol/overview)。
 
