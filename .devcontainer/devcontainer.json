@@ -1,5 +1,5 @@
 {
-  "postCreateCommand": "echo 'export PATH=/workspaces/$(basename $GITHUB_REPOSITORY)/CAIE_Code/bin:$PATH' >> $HOME/.bashrc; wget https://github.com/iewnfod/CAIE_Code/archive/refs/heads/stable.zip; unzip stable.zip -d ./; mv CAIE_Code-stable CAIE_Code; rm stable.zip; source $HOME/.bashrc; cpc -init ",
+  "postCreateCommand": "echo 'export PATH=/workspaces/$(basename $GITHUB_REPOSITORY)/CAIE_Code/bin:$PATH' >> $HOME/.bashrc; wget https://github.com/iewnfod/CAIE_Code/archive/refs/heads/stable.zip; unzip stable.zip -d ./; mv CAIE_Code-stable CAIE_Code; rm stable.zip; /workspaces/$(basename $GITHUB_REPOSITORY)/CAIE_Code/bin/cpc -init ",
   "customizations": {
     "vscode": {
       "extensions": [
