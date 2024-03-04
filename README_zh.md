@@ -20,7 +20,7 @@
 * 低本地存储消耗
 
 ## 快速开始
-1. 点击右上角的 `Use this Template`。
+1. 点击仓库首页右上角的 `Use this Template`。
 2. 选择 `Open in a Codespace`。
 	> 注意，这个代码空间的费用默认将由你自己承担。[查看具体价格](https://docs.github.com/zh/get-started/learning-about-github/githubs-plans)
 3. 创建一个后缀名为 `.cpc` 的文件。
@@ -31,7 +31,7 @@
 
 ## 保存你的文件
 如果你需要永久地将你的文件保存在 Github 中。你需要使用一下方法：
-1. 点击右上角的 `Use this Template`。
+1. 点击仓库首页右上角的 `Use this Template`。
 2. 选择 `Create a New Repository`。
 3. 选择你的仓库以及是否可见。
 	> 推荐将你的新仓库设置为私人的，除非你对自己的代码非常自信。😎
