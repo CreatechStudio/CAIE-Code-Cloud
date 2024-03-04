@@ -23,7 +23,7 @@ This is an online environment for **temporary** use of [CAIE_Code](https://githu
 
 ## Quick Start
 
-1. Click the `Use this Template`.
+1. Click the button `Use this Template` at the top right corner.
 2. Select `Open in a Codespace`.
     > Attention, this codespace is paied by yourself by default. [See price plan](https://docs.github.com/en/get-started/learning-about-github/githubs-plans)
 3. Create a new file with the end of `.cpc`.
@@ -36,16 +36,16 @@ This is an online environment for **temporary** use of [CAIE_Code](https://githu
 
 If you want to save your file permanently in GitHub. You may follow this instruction.
 
-1. Click the `Use this Template`.
+1. Click the button `Use this Template` at the top right corner.
 2. Select `Create a New Repository`.
 3. Select your own repository name and visibility.
    > It is recommended that to set your new repository as private. Unless you are very confident with your code. 😁
-4. Click `Code` in your own repository.
+4. Click the green button `Code` in your own repository.
 5. Select `Codespace` in the drop-down box.
-6. Click `Create codespace on main`
+6. Click `Create codespace on main`.
    > Attention, there is a small text under this button. It shows that who will pay for this codespace. [See price plan](https://docs.github.com/en/get-started/learning-about-github/githubs-plans)
 7. Follow the steps start from `Step 3` in [Quick Start](https://github.com/CreatechStudio/CAIE-Code-Environment?tab=readme-ov-file#quick-start)
-8. Submit your own code to reposiroty.
+8. Submit your own code to repository.
    > Having a hard time? See this [Instruction](https://code.visualstudio.com/docs/sourcecontrol/overview)
 
 ## Idle & Deletion
