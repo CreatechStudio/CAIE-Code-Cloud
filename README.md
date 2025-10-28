@@ -25,7 +25,7 @@ This is an cloud environment for **temporary** use of [CAIE_Code](https://github
 
 1. Click the button `Use this Template` at the top right corner.
 2. Select `Open in a Codespace`.
-    > Attention, this codespace is paied by yourself by default. [See price plan](https://docs.github.com/en/get-started/learning-about-github/githubs-plans)
+    > Attention, this codespace is paid by yourself by default. [See price plan](https://docs.github.com/en/get-started/learning-about-github/githubs-plans)
 3. Create a new file with the end of `.cpc`.
 4. Press `F5` or `Play` button on the top-right corner.
     > `F5` may not available in every system.
